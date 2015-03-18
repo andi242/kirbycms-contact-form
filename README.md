@@ -1,2 +1,2 @@
-# kirbycms-contact-form
+# kirbycms contact-form
 Contact form making use of own SMTP
